@@ -1,0 +1,28 @@
+img {
+    width: 100%;
+    vertical-align: middle;
+    border-style: none;
+    max-height: 400px;
+}    
+.main-img{
+    max-width: 100%;
+    height: auto;
+}
+.container-main > .main{
+    background-image: url('../images/logo.png');
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.footer_bottom_holder{
+    background-color: #000000;
+    display: block;
+}
+.footer_bottom{
+    color:#ffffff;
+    display: table-cell;
+    line-height: 22px;
+    height: 65px;
+    width: 1%;
+    vertical-align: middle;
+    text-align: center;
+}
